@@ -6,7 +6,7 @@ This repository contains my roadmap.sh DevOps project solutions ranging from beg
 **Beginner Projects**
 
 - Server Performance Stats ✅ [roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
-- Log Archive Tool
+- Log Archive Tool ✅ [roadmap.sh/projects/log-archive-tool](https://roadmap.sh/projects/log-archive-tool)
 - Nginx Log Analyser ✅ [roadmap.sh/projects/nginx-log-analyser](https://roadmap.sh/projects/nginx-log-analyser)
 - GitHub Pages Deployment
 - SSH Remote Server Setup
